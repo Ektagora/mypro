@@ -98,3 +98,18 @@ app.delete("/listings/:id", async(req , res) => {
 app.listen(8080, () => {
     console.log("server is listening to port 8080");
 });
+
+
+
+// echo "# AIRbNb" >> README.md
+// git init
+// git add README.md
+// git commit -m "first commit"
+// git branch -M main
+// git remote add origin https://github.com/Ektagora/AIRbNb.git
+// git push -u origin main
+
+
+//   git config --global user.email "ektagora3@gmail.com"
+    //     git config --global user.name "Ektagora"
+    
